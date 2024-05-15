@@ -92,7 +92,7 @@ const Work = () => {
             </a>
 
             <a
-              href="https://github.com/Alina-Saqib/React-ChatApp"
+              href="https://dashboardmaterialui-muhammad-mehtab-arfas-projects.vercel.app/"
               target="_blank"
               rel="noreferrer"
             >
